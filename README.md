@@ -24,7 +24,8 @@ Key features include:
 1. Clone this repository
 2. Configure the script parameters (backup targets, email settings, etc.)
 3. Install dependencies (FSArchiver, SSMTP)
-4. Run the script with root privileges
+4. Configure the scripts parameters (variables) to define backup sources / targets, the path to your backup and log files, e-mail parameters, backup exclusions, ZSTD compression value
+5. Run the script with root privileges
 
 ## Detailed Guide
 
